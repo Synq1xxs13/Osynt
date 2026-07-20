@@ -1,0 +1,2 @@
+# Osynt
+Simple osint tool
