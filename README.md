@@ -1,7 +1,7 @@
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![Hacking](https://img.shields.io/badge/Hacking-111111?style=flat-square&logo=hackthebox&logoColor=red)](#)
-[![OSINT](https://img.shields.io/badge/OSINT-0052CC?style=flat-square)](#)
-[![Security](https://img.shields.io/badge/Security-0A84FF?style=flat-square&logo=shield&logoColor=white)](#)
+                      [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+                      [![Hacking](https://img.shields.io/badge/Hacking-111111?style=flat-square&logo=hackthebox&logoColor=red)](#)
+                      [![OSINT](https://img.shields.io/badge/OSINT-0052CC?style=flat-square)](#)
+                      [![Security](https://img.shields.io/badge/Security-0A84FF?style=flat-square&logo=shield&logoColor=white)](#)
 
 
 
